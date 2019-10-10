@@ -1,0 +1,9 @@
+.app {
+    max-width: 60%;
+    margin: 0 auto;
+}
+
+.toggle-planet {
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
